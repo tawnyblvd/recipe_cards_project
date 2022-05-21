@@ -1,4 +1,4 @@
-# README
+# Recipe Card Project
 
 ## About
 
